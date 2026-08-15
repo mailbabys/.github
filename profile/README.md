@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="MailBaby - Cloud-Native Email Delivery Microservice" width="100%" />
+
 # 📬 MailBaby
 
 **Cloud-native, multi-queue email delivery microservice with official SDKs for Go, Java, Python, and Rust.**
